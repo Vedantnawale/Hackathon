@@ -145,18 +145,6 @@ Vite: For faster development and build process.
 Axios: For handling API request.
 
 
-
-
-Deployment
-
-1. Backend: Use platforms like Heroku, AWS, or Google Cloud for deployment.
-
-
-2. Frontend: Deploy the React application with Netlify, Vercel, or GitHub Pages.
-
-
-
-
 ---
 
 Contributing
